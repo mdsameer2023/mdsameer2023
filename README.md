@@ -36,4 +36,3 @@ Currently strengthening Full-Stack Development and Generative AI, with hands-on 
 - GitHub: @mdsameer2023
 - LinkedIn: Add your LinkedIn profile URL here
 - Portfolio: Add your portfolio URL here
-Building practical software, learning continuously, and turning ideas into working products.
